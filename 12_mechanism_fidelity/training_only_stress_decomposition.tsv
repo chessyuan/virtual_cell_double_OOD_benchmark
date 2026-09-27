@@ -1,0 +1,6 @@
+seed	n_train_conditions	n_test_conditions	training_pc1_variance_explained	full_data_pc1_variance_explained	cosine_similarity_train_vs_all	test_variance_captured_by_train_pc1	residual_variance_fraction_test	mean_test_residual_autocorrelation
+42	648	45	0.1978	0.198	0.93232	0.1734	0.8266	0.8983
+43	648	45	0.2101	0.198	0.84364	0.1116	0.8884	0.9314
+44	648	45	0.2442	0.198	0.95005	0.0703	0.9297	0.941
+45	648	45	0.1909	0.198	0.79718	0.127	0.873	0.9369
+46	648	45	0.2136	0.198	0.99278	0.1042	0.8958	0.9269

@@ -1,0 +1,4 @@
+consortium	cell_lines_screened	overlapping_drugs	drug_cell_pairs	auroc_basal_proxy	auroc_chem_proxy	best_baseline_auroc	auroc_virtual_cell	per_cell_mean_delta_auroc	bootstrap_se	p_value_degradation	utility_verdict
+PRISM 19Q4 (Broad Institute)	15	23	345	0.4874	0.4242	0.4874	0.4949	-0.024	0.0084	0.0081	Negative Incremental Utility
+GDSC v2 (Sanger / EBI)	12	18	216	0.512	0.441	0.512	0.5062	-0.0224	0.0079	0.0124	Negative Incremental Utility
+CTRP v2 (NCI / Broad)	14	20	280	0.5085	0.435	0.5085	0.5041	-0.0182	0.0071	0.0152	Negative Incremental Utility
