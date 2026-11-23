@@ -2,9 +2,7 @@
 
 Official codebase for:  
 **Beyond Reconstruction: Mechanism- and Utility-Grounded Evaluation of Virtual Cells Under Double Out-of-Distribution Perturbation and Cellular-Context Shifts**  
-Author: chessyuan  
-Affiliation: the academic department, the institution, [location redacted]  
-Correspondence: `[redacted]`  
+Project questions and reproducibility reports: please use GitHub Issues.
 
 ---
 
@@ -103,7 +101,6 @@ python generate_master_tables.py --results_dir results/ --output_dir tables/
 ```bibtex
 @article{liu2026beyond,
   title={Beyond Reconstruction: Mechanism- and Utility-Grounded Evaluation of Virtual Cells Under Double Out-of-Distribution Perturbation and Cellular-Context Shifts},
-  author={chessyuan},
   journal={Nature Methods (under review)},
   year={2026}
 }
